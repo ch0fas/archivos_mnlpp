@@ -7,9 +7,11 @@ requires-python = ">=3.9"
 dependencies = [
     "arch>=7.2.0",
     "darts>=0.37.1",
+    "dotenv>=0.9.9",
     "ipykernel>=6.31.0",
     "matplotlib>=3.9.4",
     "mlb-statsapi>=1.9.0",
+    "nba-api>=1.7",
     "nbconvert>=7.17.0",
     "nbformat>=5.10.4",
     "numpy<2.0.0",
@@ -17,7 +19,9 @@ dependencies = [
     "pandas>=2.3.3",
     "plotly>=6.5.2",
     "pmdarima>=2.0.4",
+    "statsbombpy>=1.17.0",
     "statsforecast>=0.7.1",
     "statsmodels>=0.14.6",
+    "tensorflow[and-cuda]>=2.18.1",
     "yfinance>=1.2.0",
 ]

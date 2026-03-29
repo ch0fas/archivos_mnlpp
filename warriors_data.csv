@@ -1,0 +1,83 @@
+Game,Date,Opponent,Result,Warriors_Score,Opponent_Score
+1,2024-10-23,@ Portland Trail Blazers,W,140,104
+2,2024-10-25,@ Utah Jazz,W,127,86
+3,2024-10-27,vs Los Angeles Clippers,L,104,112
+4,2024-10-29,vs New Orleans Pelicans,W,124,106
+5,2024-10-30,vs New Orleans Pelicans,W,104,89
+6,2024-11-02,@ Houston Rockets,W,127,121
+7,2024-11-04,@ Washington Wizards,W,125,112
+8,2024-11-06,@ Boston Celtics,W,118,112
+9,2024-11-08,@ Cleveland Cavaliers,L,117,136
+10,2024-11-10,@ Oklahoma City Thunder,W,127,116
+11,2024-11-12,vs Dallas Mavericks,W,120,117
+12,2024-11-15,vs Memphis Grizzlies,W,123,118
+13,2024-11-18,@ Los Angeles Clippers,L,99,102
+14,2024-11-20,vs Atlanta Hawks,W,120,97
+15,2024-11-22,@ New Orleans Pelicans,W,112,108
+16,2024-11-23,@ San Antonio Spurs,L,94,104
+17,2024-11-25,vs Brooklyn Nets,L,120,128
+18,2024-11-27,vs Oklahoma City Thunder,L,101,105
+19,2024-11-30,@ Phoenix Suns,L,105,113
+20,2024-12-03,@ Denver Nuggets,L,115,119
+21,2024-12-05,vs Houston Rockets,W,99,93
+22,2024-12-06,vs Minnesota Timberwolves,L,90,107
+23,2024-12-08,vs Minnesota Timberwolves,W,114,106
+24,2024-12-11,@ Houston Rockets,L,90,91
+25,2024-12-15,vs Dallas Mavericks,L,133,143
+26,2024-12-19,@ Memphis Grizzlies,L,93,144
+27,2024-12-21,@ Minnesota Timberwolves,W,113,103
+28,2024-12-23,vs Indiana Pacers,L,105,111
+29,2024-12-25,vs Los Angeles Lakers,L,113,115
+30,2024-12-27,@ Los Angeles Clippers,L,92,102
+31,2024-12-28,vs Phoenix Suns,W,109,105
+32,2024-12-30,vs Cleveland Cavaliers,L,95,113
+33,2025-01-02,vs Philadelphia 76ers,W,139,105
+34,2025-01-04,vs Memphis Grizzlies,W,121,113
+35,2025-01-05,vs Sacramento Kings,L,99,129
+36,2025-01-07,vs Miami Heat,L,98,114
+37,2025-01-09,@ Detroit Pistons,W,107,104
+38,2025-01-10,@ Indiana Pacers,L,96,108
+39,2025-01-13,@ Toronto Raptors,L,101,104
+40,2025-01-15,@ Minnesota Timberwolves,W,116,115
+41,2025-01-18,vs Washington Wizards,W,122,114
+42,2025-01-20,vs Boston Celtics,L,85,125
+43,2025-01-22,@ Sacramento Kings,L,117,123
+44,2025-01-23,vs Chicago Bulls,W,131,106
+45,2025-01-25,vs Los Angeles Lakers,L,108,118
+46,2025-01-28,vs Utah Jazz,W,114,103
+47,2025-01-29,vs Oklahoma City Thunder,W,116,109
+48,2025-01-31,vs Phoenix Suns,L,105,130
+49,2025-02-03,vs Orlando Magic,W,104,99
+50,2025-02-05,@ Utah Jazz,L,128,131
+51,2025-02-06,@ Los Angeles Lakers,L,112,120
+52,2025-02-08,@ Chicago Bulls,W,132,111
+53,2025-02-10,@ Milwaukee Bucks,W,125,111
+54,2025-02-12,@ Dallas Mavericks,L,107,111
+55,2025-02-13,@ Houston Rockets,W,105,98
+56,2025-02-21,@ Sacramento Kings,W,132,108
+57,2025-02-23,vs Dallas Mavericks,W,126,102
+58,2025-02-25,vs Charlotte Hornets,W,128,92
+59,2025-02-27,@ Orlando Magic,W,121,115
+60,2025-03-01,@ Philadelphia 76ers,L,119,126
+61,2025-03-03,@ Charlotte Hornets,W,119,101
+62,2025-03-04,@ New York Knicks,W,114,102
+63,2025-03-06,@ Brooklyn Nets,W,121,119
+64,2025-03-08,vs Detroit Pistons,W,115,110
+65,2025-03-10,vs Portland Trail Blazers,W,130,120
+66,2025-03-13,vs Sacramento Kings,W,130,104
+67,2025-03-15,vs New York Knicks,W,97,94
+68,2025-03-17,vs Denver Nuggets,L,105,114
+69,2025-03-18,vs Milwaukee Bucks,W,104,93
+70,2025-03-20,vs Toronto Raptors,W,117,114
+71,2025-03-22,@ Atlanta Hawks,L,115,124
+72,2025-03-25,@ Miami Heat,L,86,112
+73,2025-03-28,@ New Orleans Pelicans,W,111,95
+74,2025-03-30,@ San Antonio Spurs,W,148,106
+75,2025-04-01,@ Memphis Grizzlies,W,134,125
+76,2025-04-03,@ Los Angeles Lakers,W,123,116
+77,2025-04-04,vs Denver Nuggets,W,118,104
+78,2025-04-06,vs Houston Rockets,L,96,106
+79,2025-04-08,@ Phoenix Suns,W,133,95
+80,2025-04-09,vs San Antonio Spurs,L,111,114
+81,2025-04-11,@ Portland Trail Blazers,W,103,86
+82,2025-04-13,vs Los Angeles Clippers,L,119,124
